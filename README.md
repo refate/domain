@@ -1,3 +1,7 @@
+# **Unavailable NOW**
+
+Python 2 version of Regon-ng is required (not the latest release). Thus this script needs to be updated. 
+
 # Info
 
 Recon-ng and Alt-DNS are awesome. This script combines the power of these tools with the ability to run multiple domains within the same session.
